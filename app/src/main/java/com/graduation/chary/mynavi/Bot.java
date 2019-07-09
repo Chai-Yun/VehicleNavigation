@@ -19,7 +19,7 @@ import java.net.URLEncoder;
  */
 
 public class Bot {
-    private static String API_KEY = "24900f8a12014850800c0cc9c91457ad";
+    private static String API_KEY = "-------------------------";
     private static String URL = "http://www.tuling123.com/openapi/api";
     /**
      * 拼接Url
